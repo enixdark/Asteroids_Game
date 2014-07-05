@@ -11,5 +11,6 @@
 - Because I going to use Box2D with Objective-C++ in this project,however,I had some problems with my computer so I decided to stop it
 
 ###screenshot from game
+![New Game Menu](https://www.dropbox.com/s/7hzhkz86kim1d8d/iOS%20Simulator%20Screen%20shot%20Jul%205%2C%202014%2C%205.09.18%20PM.png)
 
 
