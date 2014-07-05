@@ -11,8 +11,14 @@
 - Because I going to use Box2D with Objective-C++ in this project,however,I had some problems with my computer so I decided to stop it
 
 ###screenshot from game
+
+##MENU
+
 ![New Game Menu]
 (http://i815.photobucket.com/albums/zz71/Cqshinn/iOSSimulatorScreenshotJul5201450918PM_zps2428fad2.png)
+
+![Rank Menu]
+(http://i815.photobucket.com/albums/zz71/Cqshinn/iOSSimulatorScreenshotJul5201450936PM_zps86cdda0a.png)
 
 
 
