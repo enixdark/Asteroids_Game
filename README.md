@@ -14,11 +14,22 @@
 
 ##MENU
 
-![New Game Menu]
-(http://i815.photobucket.com/albums/zz71/Cqshinn/iOSSimulatorScreenshotJul5201450918PM_zps2428fad2.png)
+![New Game Menu](http://i815.photobucket.com/albums/zz71/Cqshinn/iOSSimulatorScreenshotJul5201450918PM_zps2428fad2.png)
 
-![Rank Menu]
-(http://i815.photobucket.com/albums/zz71/Cqshinn/iOSSimulatorScreenshotJul5201450936PM_zps86cdda0a.png)
+![Rank Menu](http://i815.photobucket.com/albums/zz71/Cqshinn/iOSSimulatorScreenshotJul5201450936PM_zps86cdda0a.png)
+
+##INGAME
+
+![Thunder Bullet](http://i815.photobucket.com/albums/zz71/Cqshinn/iOSSimulatorScreenshotJul5201451221PM_zps521cb7bf.png)
+
+![Homing Missile](http://i815.photobucket.com/albums/zz71/Cqshinn/iOSSimulatorScreenshotJul5201451117PM_zps1ce1caf8.png)
+
+![Tran-am System](http://i815.photobucket.com/albums/zz71/Cqshinn/iOSSimulatorScreenshotJul5201451121PM_zps4b7e9e1d.png)
+
+##GAMEOVER AND INPUT DATA
+
+![INPUT](http://i815.photobucket.com/albums/zz71/Cqshinn/iOSSimulatorScreenshotJul5201451027PM_zps16ebf317.png)
+
 
 
 
